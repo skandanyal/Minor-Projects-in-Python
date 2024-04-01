@@ -22,7 +22,6 @@ for numbers in range(nr_symbols):
     symbols_list.append(symbols[random.randint(0, len(symbols) - 1)])
 
 total_characters = letters_list + numbers_list + symbols_list
-cats = total_characters
 password = str('')
 
 for numbers in range(len(total_characters)):
