@@ -1,3 +1,9 @@
+'''
+Author: Skandan C Y
+Program: A Silent Bidding assist
+
+This program takes in the names of various people who want to participate in a silent bid along with the amount of money that they wish to use and returns the name of the winner along with their bidding amount.
+'''
 import os
 from d9b_silent_auction_art import logo
 
