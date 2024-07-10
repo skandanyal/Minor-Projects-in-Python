@@ -1,6 +1,5 @@
 import random
 from turtle import Turtle, Screen
-import random
 
 screen = Screen()
 screen.setup(900, 500)
